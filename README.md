@@ -43,7 +43,7 @@ The core principle — the **Zoom Coherence Principle** — states that cause an
 
 **v4** (unlocked observers) adds a local LLM as a reasoning filter for cross-scale candidates. Where v3 stops with a "?" and a disclaimer, v4 actually reasons about whether the link is genuine or spurious.
 
-![IMAGE_fractal_triad_framework](IMG_Fractal_Triad_Framework.png)
+![IMAGE_fractal_triad_framework](IMG_Fractal_Triad.png)
 
 ## Key Results
 
